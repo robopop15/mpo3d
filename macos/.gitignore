@@ -1,0 +1,12 @@
+.DS_Store
+/.build
+/build
+/Packages
+xcuserdata/
+DerivedData/
+.clang-module-cache/
+.swiftpm-cache/
+(A Document Being Saved By swift-build*)
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
